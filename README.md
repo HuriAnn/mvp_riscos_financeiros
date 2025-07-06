@@ -89,8 +89,14 @@ Variável alvo: Classificação de Risco (High, Medium, Low)
 ## 🔎 Próximos Passos
 
 ⚖️ Técnicas de balanceamento (SMOTE, class weights)
+
 🚀 Testar XGBoost / LightGBM
+
 🧠 Ajustar métricas para melhor sensibilidade às classes minoritárias
 
 
-➡️ [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HuriAnn/mvp-riscos-financeiros/blob/main/risco_financeiro.ipynb)
+
+## 🚀 Execute o Notebook no Google Colab
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HuriAnn/mvp_riscos_financeiros/blob/main/MVP_An%C3%A1lise_Riscos_Financeiros.ipynb)
+

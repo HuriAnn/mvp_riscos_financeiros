@@ -93,4 +93,4 @@ Variável alvo: Classificação de Risco (High, Medium, Low)
 🧠 Ajustar métricas para melhor sensibilidade às classes minoritárias
 
 
-➡️ [Coloque seu nome ou link do GitHub aqui!](https://colab.research.google.com/drive/15Ow5hD8SNo944awpg6JslgPyE3wPhnEo?usp=sharing)
+➡️ [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HuriAnn/mvp-riscos-financeiros/blob/main/risco_financeiro.ipynb)
